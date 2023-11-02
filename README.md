@@ -1,11 +1,15 @@
 # Kotlin Multiplatform Native Library for Windows Tutorial
 
-This is code for a tutorial on how to make a native Windows
+This is code for a video tutorial on how to make a native Windows
 library with Kotlin Multiplatform.
+
+It's a modification of
+[Kotlin/Native as a dynamic library – tutorial](https://kotlinlang.org/docs/native-dynamic-libraries.html) on the official
+Kotlin site.
 
 There are two steps:
 
-1. build native library
+1. build native library for Windows desktop
 2. use library in sample C program
 
 ## use gradle to link native
